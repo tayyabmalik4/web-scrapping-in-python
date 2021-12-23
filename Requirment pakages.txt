@@ -1,0 +1,13 @@
+python
+pip install requests
+pip install html5lib
+pip install bs4
+
+
+
+
+Steps to scrapping the web
+1. Setting up the Environment
+2. Get the HTML------using request module
+3. Parse the HTML----using html5lib module
+4. HTML tree traversal--using bs4 module
